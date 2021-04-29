@@ -10,7 +10,7 @@ weight: 3
 Oi, eu sou o **volcov** :wave:.<br>
 Alguns me chamam de volcs, outros de volvoc, já ouvi até voltorb hahaha!<br>
 
-Atualmente eu sou engenheiro de software na [Xerpa](https://www.xerpa.com.br/), trabalho no desenvolvimento de uma plataforma de adiantamento salarial.
+Atualmente eu sou engenheiro de software na [Podium](https://www.podium.com/)
 
 Durante muito tempo eu posterguei a criação de um local semelhante a esse, chamei de `volcovlandia` pois a idéia era ser uma "ilha" onde moram partes do meu pensamento, não necessáriamente apenas os pensamentos sobre tecnologia
 
